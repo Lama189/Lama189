@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Lama189/Lama189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sergey Kuramshin
 
-Here are some ideas to get you started:
+### Experienced Python Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+**Backend:** FastAPI, SQLAlchemy, Celery
+
+**Distributed Systems:** Kafka, RabbitMQ, gRPC
+
+**Databases:** PostgreSQL, ClickHouse, Redis
+
+**Infrastructure:** Linux, Docker, GitHub Actions, Nginx
+
+**Observability:** Prometheus, Grafana, Loki, OpenTelemetry
+
+**Architecture:** DDD, Event-Driven Architecture, Microservices
