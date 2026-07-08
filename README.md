@@ -6,10 +6,11 @@
 
 </div>
 
-
 **Backend:** FastAPI, SQLAlchemy, Celery
 
-**Distributed Systems:** Kafka, RabbitMQ, gRPC
+**Communication & Protocols:** REST, WebSocket, gRPC
+
+**Distributed Systems:** Kafka, RabbitMQ
 
 **Databases:** PostgreSQL, ClickHouse, Redis
 
